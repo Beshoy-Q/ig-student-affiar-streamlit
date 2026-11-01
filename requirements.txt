@@ -1,0 +1,10 @@
+langgraph
+langchain-openai
+langchain-google-genai
+langchain-deepseek
+langsmith
+python-dotenv
+fastapi
+uvicorn[standard]
+streamlit
+requests
